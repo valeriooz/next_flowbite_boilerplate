@@ -1,0 +1,1 @@
+example of a next.js app with flowbite, without typescript

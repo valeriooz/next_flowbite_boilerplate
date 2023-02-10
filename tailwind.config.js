@@ -1,0 +1,9 @@
+module.exports = {
+  content: [
+    "./node_modules/flowbite-react/**/*.js",
+    "./pages/**/*.{js,jsx}",
+    "./public/**/*.html",
+  ],
+  plugins: [require("flowbite/plugin")],
+  theme: {},
+};
